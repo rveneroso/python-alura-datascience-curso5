@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+.idea
+lib
+lib64
+__pycache__
+bin
+~/Estudos_TI/python/alura
