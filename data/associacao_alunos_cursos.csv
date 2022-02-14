@@ -1,0 +1,21 @@
+id_curso;quantidade_de_alunos;nome_do_curso
+0;8;Lógica de programação
+1;81;Java para Web
+2;18;C# para Web
+3;17;Ruby on Rails
+4;24;Cursos de Python
+5;68;PHP com MySql
+6;4;.NET para web
+7;54;Novas integrações com Java
+8;68;TDD com Java
+9;48;Código limpo com C#
+10;57;Preparatório para certificação Java
+11;12;Hardware básico
+12;45;Persistência com .NET
+13;46;Desenvolvendo jogos
+14;26;Análise de dados
+15;71;Estatística básica
+16;37;Internet das coisas
+17;79;Programação funcional
+18;59;Boas práticas em Java
+19;33;Orientação objetos com Java
